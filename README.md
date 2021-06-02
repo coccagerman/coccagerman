@@ -27,6 +27,6 @@ Estoy buscando oportunidades en las que pueda contribuir a equipos de trabajo co
 
 Podes contactarme escribiendo a **coccagerman@gmail.com** o en www.linkedin.com/in/germancocca/ :call_me_hand:
 
-¡Gracias por la visita! : onda:
+¡Gracias por la visita! :wave:
 
 [German Cocca CV.pdf](https://github.com/coccagerman/coccagerman/files/6557238/German.Cocca.CV.pdf)
