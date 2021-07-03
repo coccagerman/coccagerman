@@ -6,7 +6,7 @@ I'm also learning about backend with node, express, graphQl and rest.
 
 Although I began my journey into programming learning about these technologies, I'm open to learn about pretty much anything, and in the near future I'd love get into mobile development, testing, other programming languages and cloud technologies. :rocket:
 
-I'm looking for job opportunities where I can contribute to exciting teams with the knowledge I already have, and keep growing as a developer as I face new interesting challenges. If you're interested you can take a look at my projects beneath and find my CV attached. :wink:
+I'm looking for job opportunities where I can contribute to exciting teams with the knowledge I already have, and keep growing as a developer as I face new challenges. If you're interested you can take a look at my projects beneath and find my CV attached. :wink:
 
 You can reach me at **coccagerman@gmail.com** or www.linkedin.com/in/germancocca/ :call_me_hand:
 
