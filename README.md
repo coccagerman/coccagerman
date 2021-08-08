@@ -3,6 +3,6 @@ I'm also learning about backend technologies with node, express, graphQl, mongoD
 
 Although I began my journey into programming learning about these technologies, I'm open to learn about pretty much anything, and in the near future I'd love get into mobile development, testing, other programming languages and cloud technologies.
 
-You can reach me at **coccagerman@gmail.com** or www.linkedin.com/in/germancocca/ :call_me_hand:
+You can reach me at **coccagerman@gmail.com** :call_me_hand:
 
 Thanks for the visit! :wave:
