@@ -6,3 +6,6 @@ Although I began my journey into programming learning about these technologies, 
 You can reach me at **coccagerman@gmail.com** :call_me_hand:
 
 Thanks for the visit! :wave:
+
+www.linkedin.com/in/germancocca/
+https://hashnode.com/@GerCocca
