@@ -7,5 +7,5 @@ You can reach me at **coccagerman@gmail.com** :call_me_hand:
 
 Thanks for the visit! :wave:
 
-www.linkedin.com/in/germancocca/
-https://hashnode.com/@GerCocca
+www.linkedin.com/in/germancocca
+www.hashnode.com/@GerCocca
