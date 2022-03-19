@@ -1,4 +1,4 @@
-I'm a full stack developer (typescript | react | react native | node | express) with one year of professional experience. I'm fluent in english and I'm currently studying computer science at UAI.
+Full stack dev (typescript | react | react native | node | express) and computer science student based in Buenos Aires, Argentina.
 
 You can reach me at **coccagerman@gmail.com** :call_me_hand:
 
