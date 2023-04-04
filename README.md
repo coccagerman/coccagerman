@@ -1,4 +1,4 @@
-Full stack dev (typescript | react | react native | node | express) and computer science student based in Buenos Aires, Argentina.
+Full stack dev (typescript | react | node | AWS) and computer engineering student based in Buenos Aires, Argentina.
 
 You can reach me at **coccagerman@gmail.com** :call_me_hand:
 
