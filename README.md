@@ -2,7 +2,7 @@ I'm a full stack developer focused on AI, cloud, and product-minded engineering.
 
 You can reach me at **coccagerman@gmail.com** :call_me_hand:
 
-- My website: [https://germancocca.vercel.app/](https://germancocca.vercel.app/)
-- My linkedin: [www.linkedin.com/in/germancocca](https://www.linkedin.com/in/germancocca/)
+- My website: [germancocca.vercel.app](https://germancocca.vercel.app/)
+- My linkedin: [linkedin.com/in/germancocca](https://www.linkedin.com/in/germancocca/)
 
 Thanks for the visit! :wave:
