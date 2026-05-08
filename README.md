@@ -1,8 +1,8 @@
-Full stack dev (typescript | react | node | AWS) and computer engineering student based in Buenos Aires, Argentina.
+I'm a full stack developer focused on AI, cloud, and product-minded engineering. I work across JavaScript, TypeScript, React, Node.js, and AWS, communicate fluently in English, and enjoy turning curiosity into tools that are genuinely useful for other people.
 
 You can reach me at **coccagerman@gmail.com** :call_me_hand:
 
-- My blog: www.freecodecamp.org/news/author/gercocca
-- My linkedin: www.linkedin.com/in/germancocca
+- My website: [https://germancocca.vercel.app/](https://germancocca.vercel.app/)
+- My linkedin: [www.linkedin.com/in/germancocca](https://www.linkedin.com/in/germancocca/)
 
 Thanks for the visit! :wave:
